@@ -1,1 +1,1 @@
-# Radom_Forest
+# Random_Forest
